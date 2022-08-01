@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopBank_ATM.Web", "TopBank_ATM.Web\TopBank_ATM.Web.csproj", "{23D3809C-F943-46BD-AD9A-D7FE1D991C35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopBank_ATM.Api", "TopBank_ATM.Api\TopBank_ATM.Api.csproj", "{21A3078D-F0B0-47C4-BF25-895DF687404B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopBank_ATM.Domain", "TopBank_ATM.Domain\TopBank_ATM.Domain.csproj", "{13DD9A53-3C0B-44BD-8BDC-1D65D07653D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopBank_ATM.Infrastructure", "TopBank_ATM.Infrastructure\TopBank_ATM.Infrastructure.csproj", "{EE630546-02D3-4CBF-BA14-7E2C98B14BDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopBank_ATM.Services", "TopBank_ATM.Services\TopBank_ATM.Services.csproj", "{C3B18253-1063-4DE7-8209-CBF57A6E6EE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23D3809C-F943-46BD-AD9A-D7FE1D991C35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D3809C-F943-46BD-AD9A-D7FE1D991C35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D3809C-F943-46BD-AD9A-D7FE1D991C35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D3809C-F943-46BD-AD9A-D7FE1D991C35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21A3078D-F0B0-47C4-BF25-895DF687404B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A3078D-F0B0-47C4-BF25-895DF687404B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21A3078D-F0B0-47C4-BF25-895DF687404B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A3078D-F0B0-47C4-BF25-895DF687404B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13DD9A53-3C0B-44BD-8BDC-1D65D07653D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13DD9A53-3C0B-44BD-8BDC-1D65D07653D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13DD9A53-3C0B-44BD-8BDC-1D65D07653D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13DD9A53-3C0B-44BD-8BDC-1D65D07653D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE630546-02D3-4CBF-BA14-7E2C98B14BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE630546-02D3-4CBF-BA14-7E2C98B14BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE630546-02D3-4CBF-BA14-7E2C98B14BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE630546-02D3-4CBF-BA14-7E2C98B14BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3B18253-1063-4DE7-8209-CBF57A6E6EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B18253-1063-4DE7-8209-CBF57A6E6EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B18253-1063-4DE7-8209-CBF57A6E6EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B18253-1063-4DE7-8209-CBF57A6E6EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {302B8229-D270-491B-B283-7383ECDE30FE}
+	EndGlobalSection
+EndGlobal
