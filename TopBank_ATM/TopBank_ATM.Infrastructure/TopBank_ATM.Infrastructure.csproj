@@ -5,8 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Context\" />
     <Folder Include="Repositories\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TopBank_ATM.Domain\TopBank_ATM.Domain.csproj" />
   </ItemGroup>
 
 </Project>
